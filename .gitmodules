@@ -1,0 +1,3 @@
+[submodule "sample-submodule"]
+	path = sample-submodule
+	url = git@github.com:cylixlee/sample-submodule
